@@ -1,0 +1,15 @@
+C:\Users\brkoz\Desktop\database_proje\database_proje\bin\Debug\database_proje.exe.config
+C:\Users\brkoz\Desktop\database_proje\database_proje\bin\Debug\database_proje.exe
+C:\Users\brkoz\Desktop\database_proje\database_proje\bin\Debug\database_proje.pdb
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.csprojResolveAssemblyReference.cache
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.Form1.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.pgiriscs.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.Properties.Resources.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.stok.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.csproj.GenerateResource.Cache
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.exe
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.pdb
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.unuttum.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.ekle.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.sil.resources
+C:\Users\brkoz\Desktop\database_proje\database_proje\obj\Debug\database_proje.kullanici.resources
